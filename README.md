@@ -10,3 +10,5 @@ docker cp FishFactsDemo:/etc/fmsoft/unigui/unigui_runtime ./
 cd unigui_runtime
 
 tar zcvf ../uniGUI-runtime.tar.gz .
+
+参考： http://bbs.2ccc.com/topic.asp?topicid=620829
